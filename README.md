@@ -26,3 +26,8 @@ commits vad är en för stor commit
 push
 MR - wip
 git stash
+
+Till nästa vecka:
+jQuery
+JavaScript
+CSS Sass
