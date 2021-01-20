@@ -19,6 +19,13 @@
 * scss - sass css
 * Optimering av hemsida - Hastighet och hur det påverkar beslut idag. Tex en widget som slöar ner en redan långsam hemsida. 
 
+# Dag 3:
+* https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x
+* https://osxfuse.github.io/
+
+# Dag 4:
+* 
+
 
 # GIT:
 * Granskning av kod
@@ -31,3 +38,7 @@
 * jQuery
 * JavaScript
 * CSS Sass
+
+# Migration
+* Cloud eller local
+* Börja från scratch? Symfony och Vue
