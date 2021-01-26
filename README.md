@@ -26,6 +26,9 @@
 # Dag 4:
 * 
 
+# Dag 5
+* Jämföra äldre versioner av båda projekt för att se skillnader och utvärdera om det går att kopiera över ändringarna från dk direkt eller om man måste gå igenom alla
+* ändringar individuellt
 
 # GIT:
 * Granskning av kod
